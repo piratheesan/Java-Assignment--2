@@ -1,6 +1,6 @@
 //import java.util.Scanner;
  
-public class Q9_1 
+public class Q9_2 
 {
     public static void main(String[] args) 
     {

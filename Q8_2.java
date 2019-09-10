@@ -1,7 +1,7 @@
 //import java.util.Arrays;
 
 
-public class Q8_1 {
+public class Q8_2 {
 
     public static void main(String[] args) {
 
