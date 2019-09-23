@@ -7,8 +7,11 @@ public class Q1
     while(num !=0)
 	{
 		int digit = num% 10;
+		//System.out.println(digit);
 		reversed = reversed * 10 + digit;
-		num /= 10;
+		System.out.println(reversed);
+		//num /= 10;
+		num=num/10;
     }
         System.out.println("Reversed"
                 + " number is " + reversed);
